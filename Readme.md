@@ -14,7 +14,7 @@ A modern, real-time Bitcoin payment processing system built with Next.js, Expres
 ## Tech Stack
 
 ### Frontend
-- Next.js 14 with App Router
+- Next.js 19 with App Router and turbopack
 - TypeScript
 - Tailwind CSS
 - shadcn/ui components
