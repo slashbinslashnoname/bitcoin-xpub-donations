@@ -11,6 +11,13 @@ A modern, real-time Bitcoin payment processing system built with Next.js, Expres
 - 🔄 WebSocket connection status indicator
 - 📊 Transaction monitoring and notifications
 
+🔑 Generate Bitcoin addresses from your xpub
+📱 Modern UI with QR codes and real-time updates
+🔒 Watch-only wallet (no private keys on server)
+💱 Automatic USD to BTC conversion
+⚡ WebSocket-based payment monitoring
+🌐 Self-hosted solution for Bitcoin donations
+
 ## Tech Stack
 
 ### Frontend
